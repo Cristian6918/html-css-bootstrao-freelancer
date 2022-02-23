@@ -1,5 +1,6 @@
 header{
     background-color: grey;
+    padding:1rem;
 }
 
 .ct-w100{
@@ -17,10 +18,10 @@ background-color:#1abc9c ;
 
 
 
-}
+
 
 .ct-pad-1r-3r{
-    padding:1rem 3rem;
+    padding:1rem 3rem; 
 
 }
 
@@ -51,4 +52,22 @@ background-color:#1abc9c ;
 .ct-bg-color-green{
     background-color:#1abc9c;
 }
+.ct-color-green{
+    color:#1abc9c;
+
+}
+
+.sec5-ul li a {
+    color:white;
+}
+
+.section5{
+    background-color:#3a546d;
+    display: flex;
+}
+
+footer{
+    background-color:#2c3e50;
+}
+
 
