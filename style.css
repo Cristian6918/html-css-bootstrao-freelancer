@@ -15,9 +15,11 @@ background-color:#1abc9c ;
     color:white;
 }
 
-.section3{
-    
-    background-color:#1abc9c ;
+
+
+}
+
+.ct-pad-1r-3r{
     padding:1rem 3rem;
 
 }
@@ -38,5 +40,15 @@ background-color:#1abc9c ;
 
 .ct-brd-color-white{
     border-color: white;
+}
+
+.ct-brd-bottom{
+    border-bottom:1px solid lightgrey;
+}
+.ct-brd-none{
+    border:none;
+}
+.ct-bg-color-green{
+    background-color:#1abc9c;
 }
 
