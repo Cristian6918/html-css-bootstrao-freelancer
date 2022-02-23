@@ -8,9 +8,35 @@ header{
 
 .section1{
 background-color:#1abc9c ;
-color:white;
+
 }
 
 .section1 a{
     color:white;
 }
+
+.section3{
+    
+    background-color:#1abc9c ;
+    padding:1rem 3rem;
+
+}
+
+.ct-images{
+    flex-wrap: wrap;
+    
+}
+
+.ct-pad10{
+    padding:10px;
+    
+}
+
+.ct-color-white{
+    color:white;
+}
+
+.ct-brd-color-white{
+    border-color: white;
+}
+
